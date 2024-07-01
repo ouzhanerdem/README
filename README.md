@@ -14,6 +14,8 @@
 <a rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a>
 <a rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="rest assured" width="40" height="40"/> </a>
 <a rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="cucumber" width="40" height="40"/> </a>
+<a rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="java" width="40" height="40"/> </a>
+
 
 
 
